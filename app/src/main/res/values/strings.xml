@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StoringandretrivingItem</string>
+    <string name="action_settings">Settings</string>
+
+
+
+
+        <string-array
+            name="Indian_States">
+            <item>Maharashtra</item>
+            <item>AndhraPradesh</item>
+            <item>Karnataka</item>
+            <item>TamilNadu</item>
+            <item>Gujrath</item>
+            <item>UttarPradesh</item>
+            <item>Goa</item>
+            <item>JammuKashmir</item>
+
+        </string-array>
+
+
+</resources>
